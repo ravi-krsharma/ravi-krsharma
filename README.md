@@ -59,4 +59,8 @@ My name is [**Ravi Sharma**](https://www.linkedin.com/in/ravi-sharma-740674117/)
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
+  <br>
+  <!--
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ravi-krsharma&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  -->
 </p>
