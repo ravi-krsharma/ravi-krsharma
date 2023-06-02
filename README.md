@@ -45,10 +45,11 @@ My name is [**Ravi Sharma**](https://www.linkedin.com/in/ravi-sharma-740674117/)
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
-## :octocat: Ansys Solutions
 
-- **[EM-NVH-Mapper](https://github.com/Solution-Applications/em-nvh-mapper)** EM NVH Solution from Ansys. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Solution-Applications/em-nvh-mapper?style=social"> 
-- **[Gearbox Solution)](https://github.com/Solution-Applications/gearbox_flow_poc)** Solution to evaluate the splash patterns of the oil within a gearbox. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Solution-Applications/gearbox_flow_poc?style=social"> 
+## :octocat: Contribution to Ansys Solutions
+
+- **[EM-NVH-Mapper](https://github.com/Solution-Applications/em-nvh-mapper)** Solution Application to assess and optimize acoustic performances of electric motors. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Solution-Applications/em-nvh-mapper?style=social"> 
+- **[Gearbox Solution](https://github.com/Solution-Applications/gearbox_flow_poc)** Solution to evaluate the splash patterns of the oil within a gearbox. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Solution-Applications/gearbox_flow_poc?style=social"> 
 
 
 
