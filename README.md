@@ -62,7 +62,7 @@ My name is [**Ravi Sharma**](https://www.linkedin.com/in/ravi-sharma-740674117/)
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-krsharma&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/ravi-krsharma/github-readme-stats" title="Go to Source">
-      <img src="https://github-readme-stats.vercel.app/api?username=ravi-krsharma&show_icons=true&theme=transparent">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ravi-krsharma&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
