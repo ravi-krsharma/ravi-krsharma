@@ -29,6 +29,8 @@ My name is [**Ravi Sharma**](https://www.linkedin.com/in/ravi-sharma-740674117/)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-plain.svg" title="Yaml"  alt="Yaml" width="40" height="40"/>&nbsp;
 </div>
 
 ## :hammer_and_wrench: Software tools
@@ -57,6 +59,7 @@ My name is [**Ravi Sharma**](https://www.linkedin.com/in/ravi-sharma-740674117/)
 ## ⚡ GitHub statistics
 
 <div align=center>
+   <img align=center width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-krsharma&layout=donut-vertical"/>
   <img align=center width="60%" src="https://github-readme-stats.vercel.app/api?username=ravi-krsharma&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   <br/>
   <img align=center width="60%" src="https://streak-stats.demolab.com/?user=ravi-krsharma&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="zumrudu-anka"/>
