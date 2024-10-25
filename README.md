@@ -59,8 +59,8 @@ My name is [**Ravi Sharma**](https://www.linkedin.com/in/ravi-sharma-740674117/)
 ## ⚡ GitHub statistics
 
 <div align=center>
-   <img align=center width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-krsharma&layout=donut-vertical"/>
-  <img align=center width="60%" src="https://github-readme-stats.vercel.app/api?username=ravi-krsharma&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+<!--    <img align=center width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-krsharma&layout=donut-vertical"/>
+  <img align=center width="60%" src="https://github-readme-stats.vercel.app/api?username=ravi-krsharma&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/> -->
   <br/>
   <img align=center width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-krsharma&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   <br/>
